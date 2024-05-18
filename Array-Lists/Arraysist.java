@@ -5,6 +5,7 @@ public class Arraysist {
         Scanner input = new Scanner(System.in);
         System.out.println("hello test");
         System.out.println("hello test2");
+        System.out.println("hello, hello");
         int twoD[][] = new int[10][] ;
         twoD[0] = new int[1] ;
         twoD[1] = new int[2] ;
